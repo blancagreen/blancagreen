@@ -1,7 +1,3 @@
-![CABECERAgit](https://user-images.githubusercontent.com/34488450/130613068-0c5d5fef-4b0e-42d1-a228-298e85596c07.jpg)
-
-
-
 
 ### Hi there! I'm Blanca 🖖
 
