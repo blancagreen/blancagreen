@@ -21,4 +21,5 @@ During this exciting full-time course, I have learnt about:
 * SQL
 
 I'm currently looking for an entry level position in the Data Science & Analytics field, and I'm always open to collaborate on projects that make a possitive impact.
-You can reach me at [LinkedIn](https://www.linkedin.com/in/blancahidalgonogales/) 
+You can find me on [LinkedIn](https://www.linkedin.com/in/blancahidalgonogales/) and I'll be very happy to have a chat 😊
+ 
