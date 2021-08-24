@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! I'm Blanca 
 
-<!--
-**blancagreen/blancagreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a curious data lover who decided to make a career change from architecture to data science and recently finished a Data Immersive bootcamp at [AllWomen Academy ](https://www.allwomen.tech/).
 
-Here are some ideas to get you started:
+During this exciting full-time course, I have learnt about:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming in Python
+* Descriptive Statistics
+* Web Scraping
+* Exploratory Data Analysis
+* Data Visualization and storytelling 
+* Probability
+* Hypothesis testing
+* Supervised and unsupervised machine learning algorithms
+* Natural language processing
+* SQL
+
+I'm currently looking for an entry level position in the Data Science & Analytics field, and I'm always open to collaborate on projects that make a possitive impact.
+You can reach me at [LinkedIn](https://www.linkedin.com/in/blancahidalgonogales/)
